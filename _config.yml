@@ -39,3 +39,9 @@ header_pages:
   - interests.md
   - current_projects.md
   - completed_projects.md
+
+
+archive:
+  layout: grid
+  excerpt: true
+  show_date: true
