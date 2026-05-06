@@ -3,6 +3,12 @@ description: "Engineering Student Portfolio"
 url: "https://<your-username>.github.io"
 baseurl: ""
 
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "dark"
+
 collections:
   interests:
     output: true
@@ -33,9 +39,3 @@ header_pages:
   - interests.md
   - current_projects.md
   - completed_projects.md
-
-  remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-include-cache
-
-minimal_mistakes_skin: "dark"
