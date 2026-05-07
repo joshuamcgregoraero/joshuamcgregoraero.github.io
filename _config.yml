@@ -44,12 +44,6 @@ defaults:
     values:
       layout: post
 
-header_pages:
-  - about.md
-  - current_projects.md
-  - completed_projects.md
-  - resume.md
-
 archive:
   layout: grid
   excerpt: true
