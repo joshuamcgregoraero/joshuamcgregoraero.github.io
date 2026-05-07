@@ -36,9 +36,9 @@ defaults:
 
 header_pages:
   - about.md
-  - interests.md
   - current_projects.md
   - completed_projects.md
+  - resume.md
 
 
 archive:
