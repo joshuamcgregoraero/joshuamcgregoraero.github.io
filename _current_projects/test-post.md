@@ -1,15 +1,14 @@
 ---
-title: Autonomous Drone Navigation
-date: 2026-05-01
+title: Space Themed KUKA Arm Dark Ride
+date: 2026-05-07
 excerpt: Vision-based control for GPS-denied flight
-tags: [autonomy, robotics, controls]
-image: /assets/images/drone.jpg
+tags: [Autonomy, Robotics, Controls, Theme Park, Ride]
 status: In Progress
 ---
 
 ## Overview
-This project focuses on vision-based navigation for small UAVs
-operating without GPS.
+This ride will be a complete overview of a ride experience from start to finish. I intend to model the entire ride sequence and controls in TwinCAT and Ignition Maker.
+Once that is completed, I will make POV and off-ride videos in Maya from accurately modeled SolidWorks models.
 
 ## Key Contributions
 - Optical flow–based state estimation
@@ -17,4 +16,4 @@ operating without GPS.
 - ROS2 integration
 
 ## Tools
-Python, ROS2, OpenCV, PX4
+TwinCAT PLC, Maya, SolidWorks, Ignition Maker
