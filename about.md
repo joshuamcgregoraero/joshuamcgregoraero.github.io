@@ -4,7 +4,6 @@ layout: single
 permalink: /about/
 ---
 
-I am an Aerospace Engineering student focused on propulsion,
-controls, and autonomous systems.
+I am an Aerospace Engineering student at Iowa State who is passionate about airflow, propulsion, controls, and all things theme park.
 
-Currently seeking internships and research opportunities.
+Currently seeking internships, co-ops, and research opportunities.
