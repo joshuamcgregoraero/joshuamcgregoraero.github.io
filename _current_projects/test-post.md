@@ -11,9 +11,8 @@ This ride will be a complete overview of a ride experience from start to finish.
 Once that is completed, I will make POV and off-ride videos in Maya from accurately modeled SolidWorks models.
 
 ## Key Contributions
-- Optical flow–based state estimation
-- PX4 offboard control
-- ROS2 integration
+- Themed entertainment industry level controls
+- Maya animation
 
 ## Tools
 TwinCAT PLC, Maya, SolidWorks, Ignition Maker
