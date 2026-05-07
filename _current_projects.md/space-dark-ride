@@ -9,7 +9,7 @@ status: In Progress
 ## Overview
 This ride will be a complete overview of a ride experience from start to finish. I intend to model the entire ride sequence and controls in TwinCAT and Ignition Maker.
 Once that is completed, I will make POV and off-ride videos in Maya from accurately modeled SolidWorks models.
-I will attempt to conduct force simulations on the ride vehicle and the riders to compare them with the acceptable standards set by ASTM F24.
+I will attempt to conduct force simulations on the ride vehicle and the riders to compare them with the ASTM F24 standards.
 
 ## Key Contributions
 - Themed entertainment industry level controls
