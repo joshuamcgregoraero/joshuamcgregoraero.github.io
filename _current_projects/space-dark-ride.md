@@ -33,3 +33,7 @@ The ride will start with guests boarding a seemingly hovering ride vehicle power
 I want to incorporate an inversion in some way, but figuring out a comfortable way to do so has so far proven difficult.
 Until next update,
 Joshua
+
+
+## 06/11/2026 Update #2
+Hello. I forgot about the soundtrack. I had forgotten the soundtrack. My initial thought is for there to be a very string-focused orchestra, or even soloists, that "narrates" the first part of the ride. The idea of an orchestral soundtrack fits the ride's gravity, space, and science-y focus. After the drop it allows us to expand to horns and higher tensioned string sections. Every modern ride has a killer soundtrack and on-board audio. I think this ride should be no different. I think I'll make it in FL Studio and put it over the final ride demo.
