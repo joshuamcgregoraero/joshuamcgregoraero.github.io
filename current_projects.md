@@ -1,6 +1,6 @@
 ---
 title: Current Projects
 layout: collection
-collection: current_projects
+collection: _current_projects
 permalink: /current-projects/
 ---
