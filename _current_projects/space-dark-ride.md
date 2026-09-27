@@ -22,7 +22,7 @@ TwinCAT PLC, Maya, SolidWorks, Ignition Maker, ANSYS
 
 
 ## 06/10/2026 Update Post #1
-I have already learned so much about these processes from just this first month of development. It has been a bit of a struggle and learning curve getting used to three new programs all at once, as well as making a layout for this attraction.
+I have already learned so much about these processes from just this first month of development. It has been a bit of a struggle and a learning curve getting used to three new programs all at once, as well as making a layout for this attraction.
 Not coming from an Electrical, Software, or Computer Engineering background, I have had to put in a lot of extra work, but I am very happy with this work and field. Along with learning TwinCAT, IgnitionMaker, and Maya, I have had to learn a 
 whole handful of new regulation texts and guidelines. To be honest, given my naivety, I thought that attractions only followed ASTM F24, but I completely forgot that the control software and formatting have regulations.
 I still haven't figured out how to commit changes to GitHub from TwinCAT, but trust me, it's looking pretty good so far. I have implemented three different actual PLCs, along with one simulation PLC to mock the attraction. I chose to split
@@ -36,4 +36,7 @@ Joshua
 
 
 ## 06/11/2026 Update #2
-Hello. I forgot about the soundtrack. I had forgotten the soundtrack. My initial thought is for there to be a very string-focused orchestra, or even soloists, that "narrates" the first part of the ride. The idea of an orchestral soundtrack fits the ride's gravity, space, and science-y focus. After the drop it allows us to expand to horns and higher tensioned string sections. Every modern ride has a killer soundtrack and on-board audio. I think this ride should be no different. I think I'll make it in FL Studio and put it over the final ride demo.
+Hello. I forgot about the soundtrack. I had forgotten the soundtrack. My initial thought is for there to be a very string-focused orchestra, or even soloists, that "narrates" the first part of the ride. The idea of an orchestral soundtrack fits the ride's gravity, space, and science-y focus. After the drop, it allows us to expand to horns and higher-tensioned string sections. Every modern ride has a killer soundtrack and on-board audio. I think this ride should be no different. I think I'll make it in FL Studio and put it over the final ride demo.
+
+## 09/26/2026 Update #3
+I am adding a drop track, which will also be listed as a concurrent project. I think that having a drop track on a KUKA Coaster is something that would really take the world by storm, and figuring out the logistics of making it work would really be something impressive. I am not entirely sure how it will work yet due to the standard of having the arms ride a single cohesive track, but I will make it work.
